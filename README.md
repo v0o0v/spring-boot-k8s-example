@@ -1,1 +1,1 @@
-https://github.com/v0o0v/spring-boot-k8s-example
+https://v0o0v.atlassian.net/l/c/161Kn6HV
