@@ -42,6 +42,7 @@
                         <image>registry.hub.docker.com/v0o0v/springboot-docker-demo</image>
                         <auth>
                             <username>v0o0v</username>
+                            <!--suppress UnresolvedMavenProperty -->
                             <password>${env.REGISTRY_PASSWORD}</password>
                         </auth>
                     </to>
